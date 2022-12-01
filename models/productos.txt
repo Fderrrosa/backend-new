@@ -1,0 +1,20 @@
+
+[{
+"title":"Camiseta Suplente de la Seleccion Argentina",
+"description":"Unisex Una camiseta cómoda para el escenario más importante, hecha con materiales reciclados",
+"code":"12F",
+"price":234.56,
+"thumbnail":"https://www.afashop.com.ar/ccstore/v1/images/?source=/file/v3925886948759474626/products/HB9220_FR_Torso_eCom.jpg&height=475&width=475",
+"stock":true,
+"timestamp":1642370884552,
+"id":1},
+
+{"title":"Camiseta Oficial de la Seleccion Argentina",
+"description":"Un producto hecho parcialmente con contenido reciclado generado a partir de desechos de producción",
+"code":"33RD",
+"price":345.67,
+"thumbnail":"https://assets.adidas.com/images/w_320,f_auto,q_auto,fl_lossy,c_fill,g_auto/200a528371ff41c09a88aeca001950c3_9366/Camiseta_Titular_Oficial_Argentina_22_Blanco_HB9218_21_model.jpg",
+"stock":true,
+"timestamp":1642371036890,
+"id":2
+}]
